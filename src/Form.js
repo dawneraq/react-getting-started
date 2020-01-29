@@ -30,6 +30,7 @@ class Form extends Component {
 
     return (
       <form>
+        <h2>Add New</h2>
         <label htmlFor="name">Name</label>
         <input
           type="text"
